@@ -29,6 +29,7 @@ Ao final deve se exibir uma mensagem:
 let heroi = "Edgar"
 let xp = 11000
 
+let nivel = "";
 if (xp < 1000) {
   nivel = "Ferro";
 } else if (xp <= 2000) {
